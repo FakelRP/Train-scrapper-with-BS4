@@ -1,6 +1,3 @@
-
-# shop_scraper.py
-# версия для понимания процессов
 import requests
 from bs4 import BeautifulSoup
 
